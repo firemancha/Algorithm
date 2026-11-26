@@ -1,0 +1,5 @@
+Diagnostics:
+  UnusedIncludes: None
+  Suppress:
+    - unused-*
+    - unused-includes
